@@ -46,4 +46,8 @@ Doctor’s Notes: Summarizes the current health status and follow-up advice.
 
 Patient List Panel: Quick access to multiple patient admission numbers for easy switching.
 
+......................................
+
+IMAGE:- ( https://github.com/VaishnaviShrivastava20/Patient-Summary-Dashboard/blob/main/dashboard%20snapshot.png ) 
+
 # Patient-Summary-Dashboard
